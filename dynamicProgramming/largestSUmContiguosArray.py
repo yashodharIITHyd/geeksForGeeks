@@ -8,6 +8,7 @@ while i<n:
     if sum1>=0 and sum1+arr[i]>=0:
         sum1+=arr[i]
     else:
+        #hah
         sum1=arr[i]
     if sum2<sum1:
         sum2 = sum1
