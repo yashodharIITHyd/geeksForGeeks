@@ -1,5 +1,3 @@
-
-
 n=10
 arr=[2,5]
 arrLen=arr.__len__()
